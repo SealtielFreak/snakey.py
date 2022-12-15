@@ -1,2 +1,2 @@
 # snakey.py
-Game framework for Python
+This project is reworking in [this repository](https://github.com/SealtielFreak/snakey2d.py)
